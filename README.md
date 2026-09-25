@@ -119,24 +119,3 @@
 <p align="center">
   <a href="https://github.com/maggieweiq-choco">maggieweiq-choco</a>
 </p>
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img
-    width="100%"
-    src="./assets/monthly-contributions.svg"
-    alt="Ziqi Wei's Monthly GitHub Contribution Activity"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Data • Engineering • Analytics • AI</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/maggieweiq-choco">maggieweiq-choco</a>
-</p>
