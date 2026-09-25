@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/maggieweiq-choco">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Ziqi%20(ZeeKay)" alt="Hello! I'm Ziqi (ZeeKay)" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Ziqi%20Wei%20(ZeeKay)" alt="Hello! I'm Ziqi Wei (ZeeKay)" />
   </a>
 </p>
 
