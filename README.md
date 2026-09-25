@@ -1,11 +1,17 @@
 <p align="center">
   <a href="https://github.com/maggieweiq-choco">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Ziqi%20Wei%20(ZeeKay)" alt="Hello! I'm Ziqi Wei (ZeeKay)" />
+    <img
+      src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=900&text=Hello!%20I'm%20Ziqi%20Wei%20(ZeeKay)"
+      alt="Hello! I'm Ziqi Wei (ZeeKay)"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Data%20Science%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Analytics%20%7C%20BI%20%26%20AI;Building%20data%20pipelines%2C%20predictive%20models%20%26%20intelligent%20analytics%20solutions" alt="Typing headlines" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Data%20Science%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Analytics%20%7C%20BI%20%26%20AI;Building%20data%20pipelines%2C%20predictive%20models%20%26%20intelligent%20analytics%20solutions"
+    alt="Typing headlines"
+  />
 </p>
 
 ---
@@ -111,8 +117,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=maggieweiq-choco&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true&days=90"
-    alt="Ziqi Wei's GitHub Contribution Activity"
+    src="./assets/monthly-contributions.svg"
+    alt="Ziqi Wei's Monthly GitHub Contribution Activity"
   />
 </p>
 
